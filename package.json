@@ -1,0 +1,31 @@
+{
+  "name": "is-do-and-have",
+  "version": "1.0.0",
+  "description": "Domain query DSL that makes if then else on instances look dumb",
+  "main": "src/index.js",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemf/is-do-and-have.git"
+  },
+  "keywords": [
+    "query",
+    "conditionals",
+    "if",
+    "then",
+    "else",
+    "dsl",
+    "domain"
+  ],
+  "author": "josemf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josemf/is-do-and-have/issues"
+  },
+  "homepage": "https://github.com/josemf/is-do-and-have#readme"
+}
