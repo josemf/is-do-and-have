@@ -1,6 +1,6 @@
 {
   "name": "is-do-and-have",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Domain query DSL that makes if then else on instances look dumb",
   "main": "src/index.js",
   "devDependencies": {
