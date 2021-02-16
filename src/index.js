@@ -257,6 +257,5 @@ const configure = (Class, options = { }) => {
 
 configure.IsDoAndHaveQuery = Query;
 
-export default configure;
- 
+module.exports = configure; 
  
