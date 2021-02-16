@@ -122,7 +122,7 @@ Options.
 
 ```javascript
 IsDoAndHave(Animal, options = {
-    is: (Class, instance, something) => instance.constructor.name === something || instance.family === something
+    is: (Class, instance, something) => instance.constructor.name === something || instance.family === something,
     do: (Class, instance, someaction) => typeof instance[someaction] === "function" || someaction === "fly" && instance.skin === "feathers"
 })
 ```
