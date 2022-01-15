@@ -1,7 +1,7 @@
 <div align="center">
   <h1>is-do-and-have</h1>
   <br>
-  <p><b>Domain query DSL that makes if then else on instances look dumb <a href="https://www.keystonejs.com/">KeystoneJS</a></b></p>
+  <p><b>Domain query DSL that makes if then else on objects look dumb <a href="https://www.keystonejs.com/">KeystoneJS</a></b></p>
   <p><code class="javascript">if(instance.is_("cute").do("meaw").and.have("fur").true()) { console.log("It is probably a cat!") }</code></p>
 </div>
 
